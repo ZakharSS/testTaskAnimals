@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTurtleTask</string>
+    <string name="action_settings">Settings</string>
+    <string name="animal">Animal</string>
+    <string name="btnReturn">Return to choice</string>
+    <string-array name="animalNames">
+        <item>Turtle</item>
+        <item>Dolphin</item>
+    </string-array>
+</resources>
